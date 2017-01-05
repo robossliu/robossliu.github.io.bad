@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://robossliu.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: Roboss Liu
+subtitle: "坚持 希望 爱"
+description: "Roboss Liu的个人博客"
+keywords: 坚持, robossliu
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -33,15 +33,7 @@ navs:
   -
     href: /categories/
     label: 分类
-
-  -
-    href: /wiki/
-    label: 维基
-
-  -
-    href: /links/
-    label: 链接
-
+	
   -
     href: /about/
     label: 关于
